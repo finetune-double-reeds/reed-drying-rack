@@ -12,3 +12,10 @@ This repository hosts parametric 3D models of reed racks for oboe, bassoon, and 
 The recessed reed rack holds reeds by recessed holes. This type of rack is easy to store and carry, but it does not support bassoon reeds. See `recessed_reed_rack.scad`.
 
 ![recessed_rack](./assets/recessed_rack.png)
+
+
+### Protruding reed rack
+
+The protruding reed rack holds reeds by their exposed staples. This design accommodates oboe, English horn, and bassoon reeds; however, due to the inherent limitations of FDM (Fused Deposition Modeling) 3D printing, the staples may be more susceptible to breakage. See `protruding_reed_rack.scad`.
+
+![protruding_rack](./assets/protruding_rack.png)
