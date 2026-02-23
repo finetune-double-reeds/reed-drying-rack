@@ -1,6 +1,6 @@
 # 晾哨架
 
-\[[以中文阅读](README_CN.md) | [Read in English](README.md)\]
+[[以中文阅读](README_CN.md) | [Read in English](README.md)]
 
 参数化的双簧管、巴松、英国管哨片晾哨架 3D 模型。模型使用 [OpenSCAD](https://openscad.org/) 建模，主要针对 3D 打印。
 
